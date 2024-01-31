@@ -1,1 +1,2 @@
-# AWS-Template
+# HTML-Template
+Used for AWS workshop
